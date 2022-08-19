@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z9bu2UniFNqvc9RqKQV7ITwbN8gnN9QltiTKxSNUED6Tze7M1KDfaln20aXIk29BWoeiulrwDmL1kfaUlUW21g==",
+  "success": true,
+  "projectFilePath": "E:\\AGarnier\\OneDrive - COA S.A\\Escritorio\\Ejercicio para Developer Net 2\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Agarnier\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Agarnier\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

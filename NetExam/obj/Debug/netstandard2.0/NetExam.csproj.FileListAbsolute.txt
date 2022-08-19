@@ -1,0 +1,10 @@
+E:\AGarnier\OneDrive - COA S.A\Escritorio\Ejercicio para Developer Net 2\NetExam\bin\Debug\netstandard2.0\NetExam.deps.json
+E:\AGarnier\OneDrive - COA S.A\Escritorio\Ejercicio para Developer Net 2\NetExam\bin\Debug\netstandard2.0\NetExam.dll
+E:\AGarnier\OneDrive - COA S.A\Escritorio\Ejercicio para Developer Net 2\NetExam\bin\Debug\netstandard2.0\NetExam.pdb
+E:\AGarnier\OneDrive - COA S.A\Escritorio\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.csproj.AssemblyReference.cache
+E:\AGarnier\OneDrive - COA S.A\Escritorio\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.GeneratedMSBuildEditorConfig.editorconfig
+E:\AGarnier\OneDrive - COA S.A\Escritorio\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.AssemblyInfoInputs.cache
+E:\AGarnier\OneDrive - COA S.A\Escritorio\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.AssemblyInfo.cs
+E:\AGarnier\OneDrive - COA S.A\Escritorio\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.csproj.CoreCompileInputs.cache
+E:\AGarnier\OneDrive - COA S.A\Escritorio\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.dll
+E:\AGarnier\OneDrive - COA S.A\Escritorio\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.pdb
